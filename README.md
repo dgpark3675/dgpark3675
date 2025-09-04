@@ -25,9 +25,7 @@
 ---
 
 ## 📫 Contact
-- ✉️ Email: your_email@example.com  
-- 🌐 Blog: [your-blog-link](https://example.com)  
-- 💼 LinkedIn: [your-linkedin-link](https://linkedin.com/in/username)  
+- ✉️ Email: ehdrms1008@gmail.com  
 
 ---
 
